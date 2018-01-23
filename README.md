@@ -63,8 +63,10 @@ Recent works on image compression and video coding (especially deep-based)
 
  * Codec + CNN [[PDF]](http://ieeexplore.ieee.org/document/7999241/)
    * An End-to-End Compression Framework Based on Convolutional Neural Networks (TCSVT 2017), Feng Jiang, Wen Tao, Shaohui Liu, Jie Ren, Xun Guo, Debin Zhao. 
+   
  * Virtual Codec + CNN [[PDF]](https://arxiv.org/abs/1712.05969)
    * Learning a Virtual Codec Based on Deep Convolutional Neural Network to Compress Image(16 Dec 2017), Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao.
+   
  * Multiple Description coding + CNN [[PDF]](https://arxiv.org/abs/1801.06611)
    * Multiple Description Convolutional Neural Networks for Image Compression(20 Jan 2018), Lijun Zhao, Huihui Bai, Anhong Wang, Yao Zhao.
 
